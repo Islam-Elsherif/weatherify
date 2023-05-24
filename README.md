@@ -1,6 +1,6 @@
 # weatherify
 
-🌦️ A weather state app that provides real-time weather information to users, keeping them informed about the current weather conditions and forecasts.
+🌦️ weatherify app that provides real-time weather information to users, keeping them informed about the current weather conditions and forecasts.
 
 📱 Built using Flutter, this app offers a beautiful and intuitive user interface, allowing users to effortlessly check weather details for their location or any desired location.
 
